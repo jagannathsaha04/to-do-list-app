@@ -7,7 +7,7 @@
 
 .container {
     width: 100%;
-    min-height: 100vh;
+    min-height: 100;
     background: linear-gradient(6deg, rgba(2, 0, 36, 1) 0%, rgba(74, 74, 156, 1) 55%, rgba(0, 212, 255, 1) 100%);
     padding: 10px;
 }
